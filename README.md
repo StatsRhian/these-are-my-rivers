@@ -1,6 +1,6 @@
 # These are my rivers [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 
-I like kayaking. Generally I prefer sea kayaking, but I'm enjoying exploring the rivers of the North West with the Lancaster Canoe Club. 
+I like kayaking. I like maps. 
 
 The thing I'm really enjoying about exploring rivers is rediscovering my local area which I thought I knew well. I've cycled all up and down the Lune valley, but I couldn't draw out the route of the River Lune on a map. 
 
